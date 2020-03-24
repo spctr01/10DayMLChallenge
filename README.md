@@ -11,6 +11,10 @@ Challenge provided by TensorFlow user group Mumbai during Quarantine.
   - Country Wise
   - Date Wise
   - Continent Wise
+  
+ [Numpy Documentation](https://numpy.org/devdocs/)
+ [,   Pandas Documentation](https://pandas.pydata.org/docs/)
+ [,   Matplotlib](https://matplotlib.org/contents.html)
     
  ***
  ### `DAY 2.`
