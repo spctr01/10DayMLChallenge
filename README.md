@@ -17,4 +17,14 @@ Challenge provided by TensorFlow user group Mumbai during Quarantine.
  [,   Matplotlib](https://matplotlib.org/contents.html)
     
  ***
- ### `DAY 2.`
+ ### [`DAY 2.`](https://github.com/spctr01/10DayMLChallenge/blob/master/day2.ipynb)
+ 
+ #### Feature Engineering & Pre-processing.
+ [DATA FROM KAGGLE](https://www.kaggle.com/c/titanic/data)
+  - Titanic dataset cleaning
+  - Feature Engineering 
+  - visualization  
+  
+  ***
+  
+  
